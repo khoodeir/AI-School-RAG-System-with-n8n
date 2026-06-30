@@ -20,7 +20,7 @@ An AI-powered Retrieval-Augmented Generation (RAG) system built with n8n that au
 
 ## 🏗️ Architecture
 
-![Architecture](images/workflow.png)
+![Architecture](RAG System.png)
 
 ---
 
