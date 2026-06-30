@@ -60,16 +60,3 @@ An AI-powered Retrieval-Augmented Generation (RAG) system built with n8n that au
 5. Telegram returns the response
 
 ---
-
-## 📷 Workflow Screenshot
-
-![Workflow](images/workflow.png)
-
----
-
-## 📦 Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/yourusername/AI-School-RAG-System.git
